@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Tapia 👋
 
-<!--
-**tapa-rojas/tapa-rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apasionado por la programación, la robótica y la química ⚗️  
+🎮 Actualmente trabajando en un fan game de FNAF tipo Flappy Bird  
+🔧 Experimentos caseros con Arduino, motores y más  
+📚 Estudiante curioso, futuro desarrollador full-stack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mis Proyectos Destacados
+- 🎮 **FNAF Guard Runner** – Un endless runner donde esquivas animatrónicos
+- ⚡ **Campana Eléctrica Casera** – Motor + botón + chispas = *campanazo*
+- 👾 **Juego Android con Ads** – ¡Monetizando cada 3 vidas!
+
+---
+
+### 🧰 Tecnologías que uso
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+---
+
+### 📫 ¿Quieres contactarme?
+- Email: uriel7apia@gmail.com
