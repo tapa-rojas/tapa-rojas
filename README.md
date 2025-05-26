@@ -1,18 +1,10 @@
 # ¡Hola! Soy Tapia 👋
 
 💻 Apasionado por la programación, la robótica y la química ⚗️  
-🎮 Actualmente trabajando en un fan game de FNAF tipo Flappy Bird  
+🎮 Actualmente trabajando en un fan game de FNAF
 🔧 Experimentos caseros con Arduino, motores y más  
 📚 Estudiante curioso, futuro desarrollador full-stack
 
----
-
-### 🚀 Mis Proyectos Destacados
-- 🎮 **FNAF Guard Runner** – Un endless runner donde esquivas animatrónicos
-- ⚡ **Campana Eléctrica Casera** – Motor + botón + chispas = *campanazo*
-- 👾 **Juego Android con Ads** – ¡Monetizando cada 3 vidas!
-
----
 
 ### 🧰 Tecnologías que uso
 
