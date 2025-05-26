@@ -4,7 +4,7 @@
 🎮 Actualmente trabajando en un fan game de FNAF
 🔧 Experimentos caseros con Arduino, motores y más  
 📚 Estudiante curioso, futuro desarrollador full-stack
-
+---
 
 ### 🧰 Tecnologías que uso
 
